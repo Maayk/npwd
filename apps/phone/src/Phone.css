@@ -7,7 +7,7 @@
 .Phone {
   position: absolute;
   right: 0;
-  width: 500px;
+  width: 480px;
   height: 1000px;
   background-size: cover;
 }
@@ -15,7 +15,7 @@
 .PhoneFrame {
   position: absolute;
   z-index: 999;
-  width: 500px;
+  width: 480px;
   height: 1000px;
   pointer-events: none;
 }
